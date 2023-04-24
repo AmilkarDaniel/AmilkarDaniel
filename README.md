@@ -1,5 +1,10 @@
 ### Hi there 👋
-
+<div aling="left">
+    <h3>🔨 Languajes and Tools:</h3>
+    <div>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="20" height="40"/>&nbsp;
+    </div>
+</div>
 <!--
 **AmilkarDaniel/AmilkarDaniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
