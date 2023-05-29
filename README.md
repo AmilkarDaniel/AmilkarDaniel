@@ -3,7 +3,7 @@
     <h3>🔨 Languajes and Tools:</h3>
     <div>
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="30" height="30"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS" width="30" height="30"/>&nbsp;
+       <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS" width="30" height="30"/>&nbsp; -->
         <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="JAVA" alt="JAVA" width="30" height="30"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="PYTHON3" alt="PYTHON" width="30" height="30"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TENSORFLOW" alt="TENSORFLOW" width="30" height="30"/>&nbsp;
