@@ -8,7 +8,7 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="PYTHON3" alt="PYTHON" width="30" height="30"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TENSORFLOW" alt="TENSORFLOW" width="30" height="30"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="30" height="30"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-line.svg" title="LARAVEL" alt="LARAVEL" width="30" height="30"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" title="LARAVEL" alt="LARAVEL" width="30" height="30"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MYSQL" alt="MYSQL" width="30" height="30"/>&nbsp;
     </div>
 </div>
